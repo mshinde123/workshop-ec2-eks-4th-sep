@@ -9,5 +9,5 @@ spec:
   filterTags:
     pattern: '.*'
   policy:
-    numerical:
+    alphabetical:
       order: desc

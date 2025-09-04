@@ -8,5 +8,5 @@ spec:
   ref:
     branch: main
   secretRef:
-    name: github-auth
+    name: github-gitops-auth
   url: https://github.com/mshinde123/workshop-ec2-eks-4th-sep

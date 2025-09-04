@@ -4,7 +4,7 @@ metadata:
   name: testingworkshop
   namespace: flux-system
 spec:
-  image: <repository>
+  image: 737062104933.dkr.ecr.us-east-1.amazonaws.com/legacy-ecommerce-app
   interval: 30s
   provider: aws
   secretRef:
