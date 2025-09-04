@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: 737062104933.dkr.ecr.us-east-1.amazonaws.com/legacy-ecommerce-app:ddb3e518bdca8aa85730222a4d32cd3c602c698a # {"": "flux-system:testingworkshop"}
+        image: 737062104933.dkr.ecr.us-east-1.amazonaws.com/legacy-ecommerce-app:9beade0c241f921bfa3b6e1db2250ce012427db3 # {"": "flux-system:testingworkshop"}
         ports:
         - containerPort: 8000
         env:
